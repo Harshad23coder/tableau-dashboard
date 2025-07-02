@@ -1,4 +1,4 @@
-# tableau-dashboard
+# tableau-dashboard- superstore
 The Sample Superstore Dashboard Analysis project focuses on deriving meaningful business insights from the popular "Sample Superstore" dataset using Tableau. 
 Perfect! Since you’re preparing everything properly for GitHub,  
 here’s a **professional README.md template** for you to upload:
